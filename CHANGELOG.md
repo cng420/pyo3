@@ -1899,7 +1899,8 @@ Yanked
 
 - Initial release
 
-[Unreleased]: https://github.com/pyo3/pyo3/compare/v0.22.5...HEAD
+[Unreleased]: https://github.com/pyo3/pyo3/compare/v0.23.0...HEAD
+[0.23.0]: https://github.com/pyo3/pyo3/compare/v0.22.5...v0.23.0
 [0.22.5]: https://github.com/pyo3/pyo3/compare/v0.22.4...v0.22.5
 [0.22.4]: https://github.com/pyo3/pyo3/compare/v0.22.3...v0.22.4
 [0.22.3]: https://github.com/pyo3/pyo3/compare/v0.22.2...v0.22.3
